@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Zarayb Zubair
 
 ### 💫 About Me:
-🔭 I’m currently working on Data Warehouse,  Data Engineering<br><br>🌱 I’m currently learning Data mining and statistical analysis, Machine learning engineering<br><br>👯 I’m looking to collaborate on Opensource Projects<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about Python, Data visualization, Database management and architecture<br><br>📫 How to reach me LinkedIn<br><br>⚡ Fun fact I play games and go to the GYM very often.
+🔭 I’m currently working on Data Warehouse,  Data Engineering<br><br>🌱 I’m currently learning Data mining and statistical analysis, Machine learning engineering<br><br>👯 I’m looking to collaborate on Opensource Projects<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about Python, Data visualization, Database management and architecture<br><br>⚡ Fun fact I play games and go to the GYM very often.
 
 
 ## 🌐 Socials:
