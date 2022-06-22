@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Abdul Wahab
 
-🔭 I’m currently working on Data Warehouse,  Data Engineering<br><br>
-🌱 I’m currently learning Data mining and statistical analysis, Machine learning engineering<br><br>
+🔭 I’m currently working in the field of Data Science<br><br>
+🌱 I’m currently learning Data mining and Advance statistical techniques<br><br>
 👯 I’m looking to collaborate on Opensource Projects<br><br>
 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/A-Wahab)<br><br>
-💬 Ask me about Python, Data visualization, Database management and architecture<br><br>
+💬 Ask me about Java, R, Python, Data visualization, Database management and architecture<br><br>
 ⚡ Fun fact I play games and go to the GYM very often.
 
 
