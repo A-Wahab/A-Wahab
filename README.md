@@ -4,7 +4,7 @@
 🌱 Learning Data mining and Advance statistical techniques<br><br>
 👯 I’m looking to collaborate on Opensource Projects<br><br>
 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/A-Wahab)<br><br>
-💬 Ask me about Java, R, Python, Data visualization, Database management and architecture<br><br>
+💬 Ask me about Java, R, Python, Data mining, Database management and architecture<br><br>
 ⚡ Fun fact I play games and go to the GYM very often.
 
 
